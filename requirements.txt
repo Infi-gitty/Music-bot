@@ -1,0 +1,4 @@
+discord.py==2.3.2
+yt-dlp==2024.4.9
+aiohttp==3.9.5
+youtube-search-python==1.6.6
