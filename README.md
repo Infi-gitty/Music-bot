@@ -19,9 +19,9 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-link" alt="Bot UI preview" width="70%"/>
+  <img src="https://github.com/user-attachments/assets/9452338a-2f20-400d-90d2-f59c0d6d1f47" width="70%"/>
   <br/>
-  <i>(You can upload a screenshot in GitHub's "Issues" tab and use that link here)</i>
+  <i>How the bot looks like in action!!</i>
 </p>
 
 ---
